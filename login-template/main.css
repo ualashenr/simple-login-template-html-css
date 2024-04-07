@@ -14,6 +14,17 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-image: url('img/ellipse2.png'), url('img/ellipse1.png');
+    background-repeat: no-repeat;
+    background-position: top right, bottom left;
+    background-attachment: fixed;
+    background-size: auto;
+}
+
+.ellipse2 {
+    min-height: 100vh;
+    top: 0;
+    right: 0;
 }
 
 p {
