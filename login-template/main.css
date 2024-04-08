@@ -21,12 +21,6 @@ body {
     background-size: auto;
 }
 
-.ellipse2 {
-    min-height: 100vh;
-    top: 0;
-    right: 0;
-}
-
 p {
     color: #252525;
 }
